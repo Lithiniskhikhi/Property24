@@ -1,0 +1,89 @@
+For Sale
+Property for Sale in Muizenberg
+Commercial Property for Sale in Muizenberg
+Repossessions in Muizenberg
+Auctions in Muizenberg
+On Show in Muizenberg
+Retirement Property for Sale in Muizenberg
+
+
+To Rent
+House to Rent in Muizenberg
+Apartment / Flat to Rent in Muizenberg
+Commercial Property to Rent in Muizenberg
+Retirement Property to Rent in Muizenberg
+Developments to Rent in Muizenberg
+Find Letting Agents
+
+Developments
+Developments for Sale in Muizenberg
+Developments to Rent in Muizenberg
+Retirement Developments for Sale in Muizenberg
+Retirement Developments to Rent in Muizenberg
+
+Commercial
+Commercial Property for Sale in Muizenberg
+Commercial Property to Rent in Muizenberg
+
+
+Advice
+Property News
+Property Advice
+Selling Your House
+Buyer's Guide
+Property Tools & Services
+Trends and Statistics in Muizenberg
+Sold House Prices in Muizenberg
+Buy Property Reports
+Find Estate Agents in Muizenberg
+Find Attorneys in Muizenberg
+Property24 Home Loans
+
+ List Privately
+Sell Your Property
+Rent Your Property
+
+Calculators
+Mortgage Bond Calculator
+Affordability Calculator
+Additional Payment Calculator
+Bond and Transfer Calculator
+
+
+<!-- <nav class="navbar navbar-expand-lg bg-white">
+        <div class="container-fluid">
+  -->
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#"></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#"></a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  For Sale
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="#">Properties for sale Muizenberg</a></li>
+                  <li><a class="dropdown-item" href="#">Commercial properties for sale in Muizenberg</a></li>
+          
+              </li>
+              <li class="nav-item">
+                <a class="nav-link disabled"></a>
+              </li>
+              <a class="nav-link dropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="color: rgb(25, 213, 213);">
+                login in
+              </a>
+              <a class="nav-link dropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="color: rgb(25, 213, 213);">
+                Sign Up
+              </a>
+            </ul>
+          </div>
+        </div>
+      </nav>

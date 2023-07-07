@@ -1,0 +1,42 @@
+.property{
+    color: blue;
+}
+.property-number{
+    color: red;
+}
+.dropdown:hover>.dropdown-menu{
+    display: block;
+   
+     }
+    
+     .nav__links a{
+        text-decoration: none;
+        padding: 10px;
+       
+    }
+
+    body{
+        font-family: " sans-serif;";
+    }
+
+    #navbar{
+        background-color: #0D63C9;
+       
+    };
+    .nav__links{
+        margin-top: 5 rem;
+    }
+    .carousel-item{
+       height: 30rem;
+       width: 50rem;
+    }
+    .carousel slide{
+        height: 50rem;
+        width: 50rem;  
+    }
+
+    #carouselExampleControls{
+        height: 50rem;
+        width: 50rem;  
+      
+    }
